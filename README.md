@@ -8,9 +8,13 @@
 
 #反射
 
+#泛型
+
 #设计模式
 
 #事务
+
+#序列化 反序列化
 
 #springboot
 
@@ -28,8 +32,7 @@
 
 #saas, paas, soa
 
-#微服务
-#saas, paas, soa
+#微服务，分布式架构
 
 #jenkins
 
@@ -39,7 +42,12 @@
 
 #nginx
 
+#nodejs
+
 # bookmarks
+# JAVA
+https://yq.aliyun.com/articles/727799?spm=a2c4e.11155472.0.0.2d837103tqG9jT
+
 # translate  
 https://translate.google.com/  
 https://www.collinsdictionary.com/translator  
