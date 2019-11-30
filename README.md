@@ -2,9 +2,11 @@
 
  ·实现方式: Thread类，Runable接口， Callable接口
  
-      Thread类: 
+      Thread类: 调用start()开启线程
       
- ·线程状态:
+      Runable接口: 重写Run()方法
+      
+ ·线程状态: New, Runnable, Blocked, Waiting, Time_Waiting，Terminated, Dead?
  
  ·线程安全: 
  
