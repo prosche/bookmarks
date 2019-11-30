@@ -1,3 +1,44 @@
+#JAVA多线程
+
+#IO，NIO，AIO，Netty
+
+#JVM
+
+#GC
+
+#反射
+
+#设计模式
+
+#事务
+
+#springboot
+
+#springcloud
+
+#activeMQ, rabbitMQ, Kafka
+
+#mangodb, cassandra, radis, Hbase, mysql
+
+#数据结构及算法
+
+#http2.0协议及安全
+
+#tcp协议
+
+#saas, paas, soa
+
+#微服务
+#saas, paas, soa
+
+#jenkins
+
+#docker
+
+#dubbo
+
+#nginx
+
 # bookmarks
 # translate  
 https://translate.google.com/  
