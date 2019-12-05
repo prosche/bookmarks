@@ -78,6 +78,10 @@
  
  http://www.codeceo.com/article/java-coding-performance.html
  http://blog.csdn.net/Evankaka/article/details/44153709
+ https://juejin.im/post/5a73cbbff265da4e807783f5
+ https://juejin.im/post/5cb4551ef265da03b858443d#heading-36
+ https://tech.meituan.com/2018/11/15/java-lock.html
+ https://aijishu.com/a/1060000000071010
  
 
 #IO，NIO，AIO，Netty
