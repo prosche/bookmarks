@@ -100,7 +100,39 @@
 
 #序列化 反序列化
 
+#微服务
+
+reference
+
+https://zhihu.com/question/65502802
+http://dockone.io/article/3687
+https://www.cnblogs.com/stulzq/p/8573828.html
+
 #springboot
+
+·AOP， IOC
+
+·注解
+
+·Spring WebFlux 
+      异步非阻塞的Web框架
+      
+
+     https://juejin.im/post/5cb5d71d51882545dd09b634
+     https://zhuanlan.zhihu.com/p/35305648
+     https://github.com/JeffLi1993/springboot-learning-example
+
+·过滤器，拦截器，切片
+
+     过滤器(filter)
+     
+     拦截器(HandlerInterceptor)
+     
+     切片(Aspect)
+     
+     https://juejin.im/post/5c6901206fb9a049af6dcdcf
+
+·异常捕获处理
 
 #springcloud
 
